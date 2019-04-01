@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="postinst" type="Bash" />
+      <mapping pattern="control" type="PLAIN_TEXT" />
+      <mapping ext="poly" type="PLAIN_TEXT" />
+      <mapping ext="debug" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="ci" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
